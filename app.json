@@ -1,9 +1,9 @@
 {
-    "name": "Raganork MD",
+    "name": "local brothers",
     "description": "multi device based WhatsApp Public/User bot.",
     "logo": "https://www.linkpicture.com/q/rgnk.jpg",
-    "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/souravkl11/Raganork",
+    "keywords": ["WhatsApp", "Userbot", "lbfc", "WhatsAsena", "bot", "api", "ai"],
+    "repository": "https://github.com/anzilgamingyt1/lbfcbot",
     "website":   "https://bit.ly/Raganork",
     "success_url": "https://bit.ly/Raganork",
     "stack": "container",
@@ -51,7 +51,7 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"lbfcbot"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
@@ -66,7 +66,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"919562064987"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
